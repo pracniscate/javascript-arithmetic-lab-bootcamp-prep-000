@@ -45,5 +45,6 @@ function dec(n) {
 // parses n as an integer and returns the parsed integer
 
 function makeInt(n) {
-  number = parseInt
+  number = parseInt(n, 10);
+  return number;
 }
