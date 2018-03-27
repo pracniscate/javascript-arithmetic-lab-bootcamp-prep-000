@@ -49,3 +49,5 @@ function makeInt(n) {
   return number;
 }
 
+// assumes base 10
+
