@@ -44,4 +44,6 @@ function dec(n) {
 
 // parses n as an integer and returns the parsed integer
 
-function
+function makeInt(n) {
+  number = parseInt
+}
