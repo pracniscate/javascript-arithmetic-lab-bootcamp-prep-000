@@ -44,6 +44,7 @@ function dec(n) {
 
 // parses n as an integer and returns the parsed integer
 // assumes base 10
+// returns NaN as appropriate
 
 function makeInt(n) {
   number = parseInt(n, 10);
