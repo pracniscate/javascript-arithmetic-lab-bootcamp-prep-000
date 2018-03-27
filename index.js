@@ -43,11 +43,12 @@ function dec(n) {
 }
 
 // parses n as an integer and returns the parsed integer
+// assumes base 10
 
 function makeInt(n) {
   number = parseInt(n, 10);
   return number;
 }
 
-// assumes base 10
+// 
 
