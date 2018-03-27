@@ -31,6 +31,6 @@ function divide(a, b) {
 // inc(n) increments n and returns the result
 
 function inc(n) {
-  number = n++;
+  number = ++n;
   return number;
 }
