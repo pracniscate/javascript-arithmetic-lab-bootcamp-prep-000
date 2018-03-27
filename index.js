@@ -34,3 +34,10 @@ function inc(n) {
   number = ++n;
   return number;
 }
+
+// dec(n) decrements n and returns the result
+
+function dec(n) {
+  number = --n;
+  return number;
+}
