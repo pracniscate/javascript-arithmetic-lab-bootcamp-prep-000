@@ -13,3 +13,10 @@ function subtract(a, b) {
   number = a - b;
   return number;
 }
+
+// multiply(a, b) multiplies two numbers and returns the result
+
+function multiply(a, b) {
+  number = a * b;
+  return number;
+}
