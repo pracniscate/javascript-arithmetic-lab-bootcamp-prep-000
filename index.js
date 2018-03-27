@@ -20,3 +20,10 @@ function multiply(a, b) {
   number = a * b;
   return number;
 }
+
+// divide(a, b) divides a by b and returns the result
+
+function divide(a, b) {
+  number = a / b;
+  return number;
+}
