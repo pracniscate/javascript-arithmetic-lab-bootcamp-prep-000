@@ -41,3 +41,7 @@ function dec(n) {
   number = --n;
   return number;
 }
+
+// parses n as an integer and returns the parsed integer
+
+function
