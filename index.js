@@ -50,5 +50,8 @@ function makeInt(n) {
   return number;
 }
 
-// 
+// preserves n\'s decimals (it parses n as a floating point number) and returns the parsed number
 
+function preserveDecimal(n) {
+  number = parseFloat(n, )
+}
